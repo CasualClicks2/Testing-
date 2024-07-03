@@ -1,6 +1,10 @@
 This is line 1 for the test note
 
 this contains some lines of code 
+*
+This code is written by account 2
+this code is also written by account 2
+*
 
 **
 This code is added by Account 1
